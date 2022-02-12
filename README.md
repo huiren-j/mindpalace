@@ -1,0 +1,2 @@
+# mindpalace
+personal website
